@@ -1,0 +1,31 @@
+.light{
+    color: gray;
+}
+.gary{
+    color: gray;
+}
+.fasih{
+    border: none;
+    height: 2px;
+    background-color: yellow;
+     width: 50%;
+  height: 2px;
+  background-color: black;
+  border: none;
+  margin: 0 auto;
+}
+.button1{
+    background-color: plum;
+    border-color: purple;
+}
+.button2{
+    background-color: plum;
+    border-color: purple;
+}
+.button3{
+    background-color: lemonchiffon;
+    border-color: yellow;
+}
+.task{
+    text-align: center;
+}
